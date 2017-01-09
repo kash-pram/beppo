@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    /*min-height: 390px;
+    min-width: 400px;*/
+    cursor: default;
+}
+
+h4 span {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 12px;
+    color: crimson;
+    font-family: 'Nova Flat', cursive;
+    font-size: 110%;
+}
+
+h4 {
+    padding: 15px;
+}
+
+img {
+    max-width: 300px;
+    min-width: 200px;
+}
+
+.container {
+    text-align: center;
+    height: 100%;
+    background-image: url("../images/Bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
